@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Anton, full-stack developer from ...</h1>
+<h1 align="center">hey there 👋 I'm Anton, full-stack developer from Russia</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Anton from ...<br><br>- 📚 I'm currently learning flutter, kotlin</p>
+<p align="left">I'm Anton from Russia, Moscow<br><br>- 📚 I'm currently learning flutter, kotlin</p>
 
 ###
 
