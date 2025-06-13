@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=impelixx.impelixx&"  />
+  <img src="(http://badge.neburalis.space/visitors/impelixx.impelixx&"  />
 </div>
 
 ###
