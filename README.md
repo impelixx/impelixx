@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Anton from Russia, Moscow<br><br>- 📚 I'm currently learning flutter, kotlin</p>
+<p align="left">I'm Anton from Russia, Moscow<br><br>- 📚 I'm currently learning golang</p>
 
 ###
 
