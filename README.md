@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Anton, full-stack developer from Russia</h1>
+<h1 align="center">hey there 👋 I'm Anton, backend developer from Russia</h1>
 
 ###
 
